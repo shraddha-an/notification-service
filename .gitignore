@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.env.local
+.pytest_cache/
+
+# Jupyter: keep notebooks tracked, ignore checkpoints
+.ipynb_checkpoints/
+*.ipynb
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors/IDEs
+.vscode/
+.idea/
+*.iml
+
+# Builds / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs / coverage
+logs/
+*.log
+coverage/
+*.coverage
